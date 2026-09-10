@@ -1,5 +1,7 @@
 # 08 Wireshark HTTP Analysis
 
+[← Repository overview](../README.md) · [Original PDF report](08-wireshark-http-analysis.pdf)
+
 > Portfolio write-up derived from the original university lab report provided by Smail Mersad. The original report contains screenshots; this GitHub edition uses only results from that report and does not invent additional assets.
 
 **Academic context:** Amar Telidji University, Computer Science / Cybersecurity Engineering, 2025-2026.

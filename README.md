@@ -19,16 +19,28 @@ Practical network-security work spanning packet analysis, man-in-the-middle atta
 
 ## Included academic work
 
-| # | Lab | Portfolio write-up |
-|---:|---|---|
-| 1 | ARP Spoofing / MITM | [`docs/01-arp-spoofing-mitm.md`](docs/01-arp-spoofing-mitm.md) |
-| 2 | ARP Spoofing, HTTPS & CA Defense | [`docs/02-arp-spoofing-https-ca-defense.md`](docs/02-arp-spoofing-https-ca-defense.md) |
-| 3 | TCP/IP Attacks | [`docs/03-tcp-ip-attacks.md`](docs/03-tcp-ip-attacks.md) |
-| 4 | Mitnick Attack Simulation | [`docs/04-mitnick-attack-simulation.md`](docs/04-mitnick-attack-simulation.md) |
-| 5 | Netfilter Kernel Firewall | [`docs/05-netfilter-kernel-firewall.md`](docs/05-netfilter-kernel-firewall.md) |
-| 6 | Wireshark UDP Analysis | [`docs/06-wireshark-udp-analysis.md`](docs/06-wireshark-udp-analysis.md) |
-| 7 | Wireshark TCP Analysis | [`docs/07-wireshark-tcp-analysis.md`](docs/07-wireshark-tcp-analysis.md) |
-| 8 | Wireshark HTTP Analysis | [`docs/08-wireshark-http-analysis.md`](docs/08-wireshark-http-analysis.md) |
+| # | Lab | Portfolio write-up | Original PDF |
+|---:|---|---|---|
+| 1 | ARP Spoofing / MITM | [`docs/01-arp-spoofing-mitm.md`](docs/01-arp-spoofing-mitm.md) | [PDF report](docs/01-arp-spoofing-mitm.pdf) |
+| 2 | ARP Spoofing, HTTPS & CA Defense | [`docs/02-arp-spoofing-https-ca-defense.md`](docs/02-arp-spoofing-https-ca-defense.md) | [PDF report](docs/02-arp-spoofing-https-ca-defense.pdf) |
+| 3 | TCP/IP Attacks | [`docs/03-tcp-ip-attacks.md`](docs/03-tcp-ip-attacks.md) | [PDF report](docs/03-tcp-ip-attacks.pdf) |
+| 4 | Mitnick Attack Simulation | [`docs/04-mitnick-attack-simulation.md`](docs/04-mitnick-attack-simulation.md) | [PDF report](docs/04-mitnick-attack-simulation.pdf) |
+| 5 | Netfilter Kernel Firewall | [`docs/05-netfilter-kernel-firewall.md`](docs/05-netfilter-kernel-firewall.md) | [PDF report](docs/05-netfilter-kernel-firewall.pdf) |
+| 6 | Wireshark UDP Analysis | [`docs/06-wireshark-udp-analysis.md`](docs/06-wireshark-udp-analysis.md) | [PDF report](docs/06-wireshark-udp-analysis.pdf) |
+| 7 | Wireshark TCP Analysis | [`docs/07-wireshark-tcp-analysis.md`](docs/07-wireshark-tcp-analysis.md) | [PDF report](docs/07-wireshark-tcp-analysis.pdf) |
+| 8 | Wireshark HTTP Analysis | [`docs/08-wireshark-http-analysis.md`](docs/08-wireshark-http-analysis.md) | [PDF report](docs/08-wireshark-http-analysis.pdf) |
+
+## Repository structure
+
+```text
+.
+├── README.md
+└── docs/
+    ├── *.md   # GitHub-friendly lab write-ups
+    └── *.pdf  # Original lab reports (privacy-redacted where noted)
+```
+
+The Markdown write-ups and supplied PDF reports form the complete available portfolio evidence. Screenshots, diagrams, and tool output are preserved inside the reports; standalone source code, captures, notebooks, and other artifacts are included only if supplied.
 
 ## Evidence policy
 
